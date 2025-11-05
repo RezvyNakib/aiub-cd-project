@@ -1,0 +1,2 @@
+g++ main.cpp problem1.cpp problem2.cpp problem3.cpp problem4.cpp problem5.cpp problem6.cpp problem7.cpp -o main
+./main
